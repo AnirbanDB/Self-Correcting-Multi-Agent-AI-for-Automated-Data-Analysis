@@ -23,6 +23,9 @@ out/
 .idea/
 .vscode/
 
+# Claude Code (local tooling — not part of the project)
+.claude/
+
 # Logs & generated artifacts
 logs/
 *.log
